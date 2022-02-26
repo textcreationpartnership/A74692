@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discovery of a swarme of seperatists, or, a leathersellers sermon. Being a most true and exact relation of the tumultuous combustion in Fleet-street last Sabboth day being the 29. of Decem. truly describing how Burboon a letherseller had a conventicle of Brownists met at his house that day about the number of an hundred and fifty, who preached there himselfe about five houres in the afternoone. Shewing likewise how they were discovered, and what meanes, as also how the constable scattered their nest, and of the great tumult in the street. With another relation of a sermon, that prophet Hunt preached in St. Pulchers Church the same day aforesaid, making another combustion in the said parish, with a description of that sermon, which he preached in Westminster-hall not long since, with a relation also of that, which he would have preached in the Old Exchange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74692</idno>
+            <idno type="STC">Wing D1637A</idno>
+            <idno type="STC">Thomason E180_25</idno>
+            <idno type="EEBO-CITATION">99871264</idno>
+            <idno type="PROQUEST">99871264</idno>
+            <idno type="VID">123670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74692)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123670)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discovery of a swarme of seperatists, or, a leathersellers sermon. Being a most true and exact relation of the tumultuous combustion in Fleet-street last Sabboth day being the 29. of Decem. truly describing how Burboon a letherseller had a conventicle of Brownists met at his house that day about the number of an hundred and fifty, who preached there himselfe about five houres in the afternoone. Shewing likewise how they were discovered, and what meanes, as also how the constable scattered their nest, and of the great tumult in the street. With another relation of a sermon, that prophet Hunt preached in St. Pulchers Church the same day aforesaid, making another combustion in the said parish, with a description of that sermon, which he preached in Westminster-hall not long since, with a relation also of that, which he would have preached in the Old Exchange.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Taylor?.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brownists --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Riots --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123670:1"/>
+            <pb facs="tcp:123670:1" rendition="simple:additions"/>
+            <p>THE DISCOVERY Of a Swarme of Seperatiſts, OR, A Leatherſellers SERMON.</p>
+            <p>Being a moſt true and exact Relation of the tumultuous combuſtion in <hi>Fleet-ſtreet</hi> laſt Sabboth day being the 29. of <hi>Decem.</hi> truly deſcribing how <hi>Burboon</hi> a Letherſeller had a Conventicle of Browniſts met at his houſe that day about the number of an hundred and fifty, who preached there himſelfe about five houres in the afternoone.</p>
+            <p>Shewing likewiſe how they were diſcove<g ref="char:EOLhyphen"/>red, and what meanes, as alſo how the Conſtable ſcattered their Neſt, and of the great tumult in the Street.</p>
+            <p>With another Relation of a Sermon, that Prophet <hi>Hunt</hi> prea<g ref="char:EOLhyphen"/>ched in St. <hi>Pulchers</hi> Church the ſame day aforeſaid, making another combuſtion in the ſaid Pariſh, with a deſcription of that Sermon, which he preached in <hi>Weſtminſter</hi>-hall not long ſince, with a Relation alſo of that, which he would have preached in the Old Exchange.</p>
+            <p>LONDON, Printed for <hi>John Greenſmith,</hi> 16<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:123670:2"/>
+            <pb facs="tcp:123670:2"/>
+            <head>A Neſt of <hi>Browniſts</hi> diſcovered.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He various Factions, which the Brow<g ref="char:EOLhyphen"/>niſts doe daily induce among us, and the diſtracted diviſions, which they intruce againſt the glorious ſincerity of our Chriſtian Church are ſo numerous, that I need not to relate each particu<g ref="char:EOLhyphen"/>lar herein, leaſt J ſhould overload your patience with too long Battologiſmes. Wherefore J will in no regard digreſſe from my intended Subject, but proceed with all celerity herein.</p>
+            <p>At the lower end of <hi>Fleetſtreet</hi> neere <hi>Fetterlane,</hi> one <hi>Burboone</hi> a Letherſeller entertained a whole ſwarme of Browniſts in his houſe (as by credible information a<g ref="char:EOLhyphen"/>bout the number of an hundred and fifty) who laſt Sab<g ref="char:EOLhyphen"/>both day being the 19. of <hi>December</hi> preached himſelfe (I ſuppoſe) as the Spirit moved him to his Browniſti<g ref="char:EOLhyphen"/>call Congregation. But he yelped ſo loud with an hor<g ref="char:EOLhyphen"/>rid exclamation, that divers men paſſing by gave ſome audience thereunto, and immediatly conceiving that they were ſome Neſt of Schiſmaticks, they ſtayed lon<g ref="char:EOLhyphen"/>ger, and longer, in expectation to heare ſome of his too-erroneous Doctrine (as was afterward declared to ſuffi<g ref="char:EOLhyphen"/>cient men) and as they ſtill waited in anticular capta<g ref="char:EOLhyphen"/>tion, ſo their number increaſed, and at length they came to a full head. And being impatient of the aforeſaid
+<pb facs="tcp:123670:3"/>Leather-Sellers Sermons, which was full of Hereticall opinions, they began to make a combuſtion therabouts and on a ſuddaine broke downe all the glaſſe windowe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and withall ſtriving to breake downe the doore: thus they continued in this diffuſive hurly-burly from five of the clocke in the afternoone, untill paſt ſeven, then the Conſtable of that Ward commanded the doore of the ſayd Conventicle houſe to be opened, while they ſent them all away, there was a tumultuous clamour among the Popular conflux of the vulgar, and ſome of the ſaid Browniſts being obſtinate, and deſpe<g ref="char:EOLhyphen"/>rate, were committed ſome to Bridewell, and others to to the Counters, yet notwithſtanding there was ſtill an acclamation among the Apprentices and others, who would have pulled downe the houſe, had not the Con<g ref="char:EOLhyphen"/>ſtable come againe, and mitigated them with his guard: yet ſtill their raging fury could not be abated in a per<g ref="char:EOLhyphen"/>fect tranquillity, and pacification, but they broke the ſigne of the ſaid Leather-Sellers houſe, having a various diſtraction, and great mutiny among them.</p>
+            <p>The ſayd, <hi>Burboone</hi> preached very nigh five houre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, crying divers times, as was audibly heard, Hell and Damnation, telling them they were all damned, he did ſpeake likewiſe much againſt the Booke of Com<g ref="char:EOLhyphen"/>mon Prayer, againſt the Biſhops and many others, but the flexibility of his voice was ſo various, that we could heare no perfect ſentence of his Sermon, but only ſome fragments thereof, ſometimes caſting an aſperſion on the Biſhops, and ſometimes detraction on the Booke of com<g ref="char:EOLhyphen"/>mon Prayer. O horrid Blaſphemy! That Booke which the pious, undaunted and religious Martyrs ſealed with their blood, and when as they came to the ſtake, they held it,
+<pb facs="tcp:123670:3"/>their chiefeſt ambition to die with this divine ſervice Book Seal'd to their breaſts, intimating that their whole hearts was therin: and therfore dyed in the maintenance therof, I ſay this Book is now deſpicable and contemn'd of theſe Amſterdam whelpes and tubbiſh of the world.</p>
+            <p>Oh that we had a <hi>Cicero</hi> alive, to crye out, <hi>O tempora, O mores,</hi> or rather the <hi>Boonerges</hi> or Sons of thunder, to tell them of their aſpiring Hereſie. But it is in vaine to ſpeake to ſtones, or ſuch flinty-hearted men, whoſe obſtinacy is grown to ſo high a degree, that they will neither heare, nor admit of any that ſhall either confute them by apparent reaſon, or contradict them by the exemplary word of God, and his holy Goſpell: <hi>yea</hi> rather then they will have any oppoſers, they ſay thoſe are all damned, that ſpeake againſt them; Thus the a<g ref="char:EOLhyphen"/>forementioned Letherſeller houled out his new-coined Doctrine to his new-minted Auditors, who of late have all ſurreptitiouſly crept in among us. There was as ma<g ref="char:EOLhyphen"/>ny women as men, and if the Conſtable had not came ſeaſonably, as he did, there had been great murther a<g ref="char:EOLhyphen"/>mong them, for the Apprentices were fully reſolved to breake open the doores immediately, therefore in the debate that there was, many o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſaid Browniſts crauled over the Tyles, and houſes, eſcaping ſome one way, and ſome another. But at length they catcht one of them alone, but they kickt him ſo vehemently, as if they meant to beate him into a jelly: Jt is ambiguous whither they have kil'd him or no: but for a certainty they did knocke him, as if they meant to pull him in pieces. J confeſſe, it had beene no matter, if they had beaten their whole Tribe in the like manner.</p>
+            <pb facs="tcp:123670:4"/>
+            <p>But to omit theſe ſuperliminary circumſtances, J will deſcribe the breaking up of their Conventicle: For whereas they ſuppoſed they ſhould be taken either by the Conſtable, or the ſaid confluxe of the people, they did breake downe the backe-walles, and ſome eſcaped that way, and others crawled over the houſes, till at length the Conſtable entred, and took many of them, who were apprehended, and the Letherſeller with his whole ſwarme anſwered laſt Munday for theſe trouble<g ref="char:EOLhyphen"/>ſome diſtractions, &amp; co<g ref="char:cmbAbbrStroke">̄</g>fuſed diſturbances in the ſtreet.</p>
+         </div>
+         <div type="sermon">
+            <head>A Relation of Prophet <hi>Hunts</hi> Sermon, Preached at St. <hi>Pulchers</hi> Church the 19. of <hi>Decem.</hi>
+            </head>
+            <p>THe Sermon being ended at St. <hi>Pulchers</hi> Church, this <hi>Hunt</hi> a Prophet, who have been very trou<g ref="char:EOLhyphen"/>bleſome in this City heretofore, and once be<g ref="char:EOLhyphen"/>fore committed to the Counter for a Sermon, which he preached at <hi>Chriſts-Church</hi> before, have beene dehor<g ref="char:EOLhyphen"/>ted divers times: Yet notwithſtanding his ſick-brain'd obſtinacy would not be retracted, but rather extended farther; For (as it appeareth) he raiſed a combuſtion at this Pariſh, and ſtanding up cryed with a full voice, <hi>Mon and Brethren</hi> J pray give eare unto my text, which is taken out of the 7 chap. of the <hi>Revel.</hi> v. 3. then he began to bawle ſo loud, concerning fire and water with ſuch peremptory confidence, that there did ariſe a great tumultuous murmur among the Pariſhioners, and without much prolixity of words he was pulled downe by the Conſtables and others: Yet he was very confi<g ref="char:EOLhyphen"/>dent of himſelfe, for hee ſaid, that hee was ſent a meſſenger from God, and therefore without their con<g ref="char:EOLhyphen"/>tradiction
+<pb facs="tcp:123670:4"/>he would deliver his Meſſage: but immedi<g ref="char:EOLhyphen"/>ately they haled him before the Lord Maior, a great multitude of People following him: who yet was very peremptorie before his Honnour, wher-upon the Lord Maior perceiving his arrogant protervitie, propounded many interrogations unto him, aſking him whether he had the Spirit or no, or how he dare preſume to preach having no warrant for the Miniſteriall function, his re<g ref="char:EOLhyphen"/>plie was that he had ſufficient warrant from God, for he knew that he was his Meſſenger, and as for the Spirit he was confident that he had that, which he ſayd they ap<g ref="char:EOLhyphen"/>parently might conceive by the fruites thereof But for my part I doe verilye beleive, that if he has any Spirit it is the Spirit of error, rather then the Spirit of truth.</p>
+            <p>Yet it would be to tedious for us to deſcribe each cir<g ref="char:EOLhyphen"/>cumſtance, that the Lord Maior had with him, whe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore he at length perſpicuoſly perceiving his erroneous &amp; Schiſmaticall obſtinacie, he committed him to the Counter, where I will leave him, and all his conſederates.</p>
+            <p>This Prophet <hi>Hunt</hi> preached a Sermon once in <hi>Weſtminſter Hall,</hi> but his Auditors then ſeing the weake madneſſe of his giddy-braine, derided and abuſ'd him there extreamely. Another time he preached in the old Exchange, but he was there almoſt pull'd in peices, hee have likewiſe divers times put himſelfe forward in ma<g ref="char:EOLhyphen"/>ny Churches, for which he had great rebuke. Yet with<g ref="char:EOLhyphen"/>ſtanding he proceeded daily in his former errors, ſo long as he was at liberty, and I fuppoſe he expected better ſucceſſe in this Church, then he have had heretofore in other, but I wiſh, that his whole Sect may find no bet<g ref="char:EOLhyphen"/>ter, then he had in his laſt enterprize.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
